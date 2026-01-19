@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import '../styles/hero.css'
 
 export default function Hero() {
@@ -22,7 +22,7 @@ export default function Hero() {
         <div className="hero-text">
           <h1 className="hero-title">
             <span className="greeting">Hello, I'm</span>
-            <span className="name">Your Name</span>
+            <span className="name">Marcos Gómez de Quero Santos</span>
           </h1>
           <p className="hero-subtitle">
             {displayText}

@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import '../styles/about.css'
 
 export default function About() {
@@ -34,17 +34,17 @@ export default function About() {
             </p>
             <div className="experience-highlights">
               <div className="highlight">
-                <span className="number">5+</span>
+                <span className="number">3+</span>
                 <span className="label">Years Experience</span>
               </div>
               <div className="highlight">
-                <span className="number">20+</span>
+                <span className="number">13+</span>
                 <span className="label">Projects Completed</span>
               </div>
-              <div className="highlight">
+              {/* <div className="highlight">
                 <span className="number">100%</span>
                 <span className="label">Client Satisfaction</span>
-              </div>
+              </div> */}
             </div>
           </div>
 

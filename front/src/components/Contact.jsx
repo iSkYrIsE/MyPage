@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import React, { useState } from 'react'
 import '../styles/contact.css'
 
 export default function Contact() {
@@ -25,10 +25,10 @@ export default function Contact() {
   }
 
   const contactLinks = [
-    { icon: '📧', label: 'Email', value: 'your.email@example.com', href: 'mailto:your.email@example.com' },
-    { icon: '💼', label: 'LinkedIn', value: 'linkedin.com/in/yourprofile', href: '#' },
-    { icon: '🐙', label: 'GitHub', value: 'github.com/yourprofile', href: '#' },
-    { icon: '🐦', label: 'Twitter', value: '@yourhandle', href: '#' },
+    { icon: '📧', label: 'Email', value: 'marcgomezdequero99@gmail.com', href: 'mailto:marcgomezdequero99@gmail.com' },
+    { icon: '💼', label: 'LinkedIn', value: 'https://linkedin.com/in/marcos-gomez-de-quero-santos', href: 'https://es.linkedin.com/in/marcos-gomez-de-quero-santos' },
+    { icon: '🐙', label: 'GitHub', value: 'https://github.com/iSkYrIsE', href: 'https://github.com/iSkYrIsE' },
+    // { icon: '🐦', label: 'Twitter', value: '@yourhandle', href: '#' },
   ]
 
   return (
