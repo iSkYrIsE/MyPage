@@ -1,7 +1,8 @@
 <div align="center">
   <p>
     <a href="./README.md"><b>🇺🇸 English</b></a> | 
-    <a href="./README.es.md">Es Español</a>
+    <a href="./README.es.md">🇪🇸 Español</a> |
+    <a href="./README.ja.md">🇯🇵 日本語</a>
   </p>
 </div>
 
