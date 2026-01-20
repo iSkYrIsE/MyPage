@@ -6,10 +6,6 @@
   <h1 align="center">✨ MyPage ✨</h1>
 
   <p align="center">
-    <strong>Tu espacio personal en la web. Minimalista. Moderno. Tuyo.</strong>
-  </p>
-
-  <p align="center">
     <a href="https://github.com/iSkYrIsE/MyPage/graphs/contributors">
       <img src="https://img.shields.io/github/contributors/iSkYrIsE/MyPage?style=for-the-badge&color=blue" alt="Contributors" />
     </a>
@@ -40,7 +36,6 @@ El objetivo de este repositorio es proporcionar una base sólida, rápida y est�
 
 * 🎨 **Diseño Responsivo:** Se ve perfecto en móviles, tablets y escritorio.
 * ⚡ **Alto Rendimiento:** Optimizado para cargar rápido.
-* 🌙 **Modo Oscuro:** (Si lo tienes implementado, si no, borra esta línea) Soporte nativo para dark mode.
 * 📱 **Contacto Directo:** Enlaces integrados a redes sociales.
 * 🛠 **Fácil de Personalizar:** Código limpio y organizado.
 
@@ -58,7 +53,7 @@ Este proyecto ha sido construido con las siguientes herramientas:
   </div>
 
 ---
-
+````
 ## 📸 Vistazo Rápido (Screenshots)
 
 ¡Una imagen vale más que mil palabras!
@@ -70,7 +65,7 @@ Este proyecto ha sido construido con las siguientes herramientas:
 *(Reemplaza estos enlaces `via.placeholder.com` con las rutas a tus propias imágenes en la carpeta /assets o /images)*
 
 ---
-
+````
 ## 🔧 Instalación y Uso Local
 
 Si deseas clonar y correr este proyecto en tu máquina local:
