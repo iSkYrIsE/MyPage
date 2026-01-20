@@ -1,4 +1,12 @@
 <div align="center">
+  <p>
+    <a href="./README.md">🇺🇸 English</a> | 
+    <a href="./README.es.md"><b>🇪🇸 Español</b></a> |
+    <a href="./README.ja.md">🇯🇵 日本語</a>
+  </p>
+</div>
+
+<div align="center">
   <a href="https://github.com/iSkYrIsE/MyPage">
     <img src="https://socialify.git.ci/iSkYrIsE/MyPage/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="MyPage Banner" width="640" height="320" />
   </a>
