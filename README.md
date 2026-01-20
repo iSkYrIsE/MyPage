@@ -52,20 +52,6 @@ Este proyecto ha sido construido con las siguientes herramientas:
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </div>
 
----
-````
-## 📸 Vistazo Rápido (Screenshots)
-
-¡Una imagen vale más que mil palabras!
-
-| Escritorio | Móvil |
-|:----------:|:-----:|
-| <img src="https://via.placeholder.com/400x200?text=Captura+Escritorio" alt="Desktop" width="400"/> | <img src="https://via.placeholder.com/150x250?text=Captura+Movil" alt="Mobile" width="150"/> |
-
-*(Reemplaza estos enlaces `via.placeholder.com` con las rutas a tus propias imágenes en la carpeta /assets o /images)*
-
----
-````
 ## 🔧 Instalación y Uso Local
 
 Si deseas clonar y correr este proyecto en tu máquina local:
