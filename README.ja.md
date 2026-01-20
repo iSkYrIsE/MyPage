@@ -14,10 +14,6 @@
   <h1 align="center">✨ MyPage ✨</h1>
 
   <p align="center">
-    <strong>ウェブ上のあなたのパーソナルスペース。ミニマル。モダン。あなたらしく。</strong>
-  </p>
-
-  <p align="center">
     <a href="https://github.com/iSkYrIsE/MyPage/graphs/contributors">
       <img src="https://img.shields.io/github/contributors/iSkYrIsE/MyPage?style=for-the-badge&color=blue" alt="Contributors" />
     </a>
